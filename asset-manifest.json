@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/figma-to-react-signup/static/css/main.c41cfa88.css",
+    "main.js": "/figma-to-react-signup/static/js/main.aeae038a.js",
+    "static/media/logo.svg": "/figma-to-react-signup/static/media/logo.6c6a3b385cb54468ae9e7f503033c249.svg",
+    "static/media/rectangle2.svg": "/figma-to-react-signup/static/media/rectangle2.d90990d4506485e1a71aa04eb66c9243.svg",
+    "index.html": "/figma-to-react-signup/index.html",
+    "main.c41cfa88.css.map": "/figma-to-react-signup/static/css/main.c41cfa88.css.map",
+    "main.aeae038a.js.map": "/figma-to-react-signup/static/js/main.aeae038a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c41cfa88.css",
+    "static/js/main.aeae038a.js"
+  ]
+}
